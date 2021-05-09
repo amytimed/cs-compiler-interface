@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\CS Compiler Interface\bin\Debug\CS Compiler Interface.exe.config
+C:\Users\Alex\source\repos\CS Compiler Interface\bin\Debug\CS Compiler Interface.exe
+C:\Users\Alex\source\repos\CS Compiler Interface\bin\Debug\CS Compiler Interface.pdb
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS Compiler Interface.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS_Compiler_Interface.Form1.resources
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS_Compiler_Interface.Properties.Resources.resources
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS Compiler Interface.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS Compiler Interface.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS Compiler Interface.exe
+C:\Users\Alex\source\repos\CS Compiler Interface\obj\Debug\CS Compiler Interface.pdb
